@@ -7,7 +7,7 @@ I'm a passionate FiveM script developer with extensive experience in creating an
 
 ## 💻 Tech Stack
 ```
-FiveM (Lua)  ████████████████████░  Expert
+FiveM (Lua)  ██████████████████    Expert
 JavaScript   ██████████████████░░  Advanced
 PHP Native   ████████████████░░░░  Intermediate
 Python       ████████████████░░░░  Intermediate
